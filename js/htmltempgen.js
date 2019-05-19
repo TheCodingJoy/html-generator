@@ -1,6 +1,6 @@
 $(function(){
 	var debug = false;	// Debub flag (set to false when releasing)
-	var versionName = 'v1.0.1 (Cuttlefish'+((debug)?'::debug_true':'')+')';		// Version name and setup, always use this and update accordingly!
+	var versionName = 'v1.0.0 (TheCodingJoy'+((debug)?'::debug_true':'')+')';		// Version name and setup, always use this and update accordingly!
 	// Prototype for the templates
 	var templateProto = function(){
 		this.comments = false;
