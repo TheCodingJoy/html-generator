@@ -1,6 +1,6 @@
 # HTML5 Template Page Generator
 
-**Latest release:**  v1.0.0 (TheCodingJoy), June 17th, 2019
+**Latest release:**  v1.0.0 (TheCodingJoy), May 24th, 2019
 
 Check the live version [here](https://thecodingjoy.github.io/html-generator/).
 
